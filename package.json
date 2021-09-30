@@ -1,0 +1,17 @@
+{
+    "name": "kado",
+    "version": "0.0.1",
+    "description": "",
+    "main": "kado.js",
+    "scripts": {
+        "start": "node kado.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "request": "^2.88.2"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "license": "MIT"
+}
